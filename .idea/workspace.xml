@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95661798-7f48-4da3-91d1-31cbba3911b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_data/navigation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_data/site.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_includes/partials/brand.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_includes/partials/site-head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eleventy.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eleventy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_data/cta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_data/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_includes/partials/cta.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/layouts/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_includes/layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/site-head.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/site-head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +36,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="start-module-4" />
-                    <option name="lastUsedInstant" value="1740284625" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1740334405" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1740256304" />
+                    <option name="branchName" value="start-module-4" />
+                    <option name="lastUsedInstant" value="1740284625" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="lesson-2" />
@@ -80,13 +78,14 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "start-module-4",
+    "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "20.11.0",
     "javascript.nodejs.core.library.typings.version": "20.11.30",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/giandodev/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -115,7 +114,8 @@
       <workItem from="1740252856866" duration="39000" />
       <workItem from="1740252900989" duration="309000" />
       <workItem from="1740253330796" duration="3021000" />
-      <workItem from="1740283175305" duration="7698000" />
+      <workItem from="1740283175305" duration="8137000" />
+      <workItem from="1740368022605" duration="5480000" />
     </task>
     <servers />
   </component>
